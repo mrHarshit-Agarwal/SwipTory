@@ -1,4 +1,5 @@
-# Swiptory - Social Media Platform for Stories
+# Swiptory - Social Media Platform for Stories 
+https://swiptroy.netlify.app/
 
 Swiptory is a social media platform that revolves around the captivating world of stories. Users can immerse themselves in a diverse range of content presented in the form of stories. Swiptory offers a seamless experience for exploring, interacting, and sharing stories.
 
